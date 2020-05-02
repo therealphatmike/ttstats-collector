@@ -1,0 +1,1 @@
+# this file will hold code to scrape match information from tournaments gathered by previous_tournaments_scraper.py

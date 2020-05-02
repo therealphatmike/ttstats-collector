@@ -1,0 +1,1 @@
+# this is intended to collect data for current tournaments using the url patterns listed in the readme

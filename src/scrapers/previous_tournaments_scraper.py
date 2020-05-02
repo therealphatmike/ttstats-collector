@@ -1,0 +1,1 @@
+# this file is intended to collect high level data on previous tournaments
